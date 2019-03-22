@@ -1,0 +1,14 @@
+JUnit: 
+Es un frameword que permite  la ejecuión de clases
+de manera controlada para comprobar que los métodos 
+realicen su cometido 
+Son muy útiles para cuando se necesite cambiar algún módulo 
+y asegurarse que el cambio funcione correctamente y no afecte
+el programa
+
+Exitesten dos tipos de pruebas: 
+** Pruebas unitarias: Comprueban la funcionalidad 
+del módulo de forma independiente al resto de la aplicación
+** Pruebas de integración: Son las pruebas de correcta integración
+de módulos, comunicación o llamadas 
+
